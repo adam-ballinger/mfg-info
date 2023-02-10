@@ -1,0 +1,19 @@
+{
+  "name": "mfg-info",
+  "version": "1.0.0",
+  "description": "Manufactuing information web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-ballinger/mfg-info.git"
+  },
+  "author": "Adam Ballinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adam-ballinger/mfg-info/issues"
+  },
+  "homepage": "https://github.com/adam-ballinger/mfg-info#readme"
+}
